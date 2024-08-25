@@ -12,5 +12,5 @@ This example is helpful for beginners learning how pointers work in C programmin
 
 ### Compilation and Execution:
 ```bash
-gcc pointers_example.c -o pointers_example
-./pointers_example
+gcc pointers.c -o pointers
+./pointers
