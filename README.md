@@ -1,4 +1,5 @@
 The program handles three different data types: `int`, `float`, and `char`. It prints the addresses of these variables and the values stored at those addresses using pointers.
+It shows how to: - Initialize a pointer to store the address of a variable. - Access the exact value stored in a variable via its pointer.
 
 ## Key Concepts:
 - Pointer declaration and initialization.
